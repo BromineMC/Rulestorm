@@ -1,0 +1,15 @@
+*.launch
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.vscode/
+bin/
+*.DS_Store
+.DS_Store
+hs_err_pid*
+replay_pid*
+*.hprof
+*.log
+*.class
